@@ -1,4 +1,8 @@
 _repo: Cheri_6484
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Colette
@@ -16,6 +20,8 @@ description: "Chéri is a novel by Colette published in French in 1920. The titl
   \ true name is Fred Peloux, but he is known as Chéri to almost everyone, except,\
   \ usually, to his wife. This novel was followed by a sequel, La Fin de Chéri, published\
   \ in 1926.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6484#Cheri
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
